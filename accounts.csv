@@ -1,0 +1,11 @@
+account_id,account_name,category,group_name
+101,Transaction Fees,Revenue,Revenue
+102,Interest Income,Revenue,Revenue
+103,Subscription Income,Revenue,Revenue
+201,Payment Processing Cost,Cost of Sales,Cost of Sales
+301,Salaries,Operating Expense,People
+302,Marketing,Operating Expense,Non-People
+303,Technology,Operating Expense,Non-People
+304,Rent and Office,Operating Expense,Non-People
+305,Professional Fees,Operating Expense,Non-People
+306,Compliance,Operating Expense,Non-People

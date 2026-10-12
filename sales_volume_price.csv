@@ -1,0 +1,49 @@
+month,business_unit,product,units_budget,price_budget,units_actual,price_actual
+2026-01-01,Payments,Card Payments,1196000,0.3,1230170,0.305
+2026-01-01,Payments,Bank Transfers,460000,0.22,452617,0.223
+2026-01-01,Trading Platform,Equity Trades,69000,2.0,68353,1.976
+2026-01-01,Trading Platform,FX Trades,36800,1.6,36489,1.609
+2026-02-01,Payments,Card Payments,1231776,0.3,1235382,0.3
+2026-02-01,Payments,Bank Transfers,473760,0.22,481964,0.221
+2026-02-01,Trading Platform,Equity Trades,71064,2.0,69733,2.01
+2026-02-01,Trading Platform,FX Trades,37901,1.6,37113,1.625
+2026-03-01,Payments,Card Payments,1320800,0.3,1356497,0.304
+2026-03-01,Payments,Bank Transfers,508000,0.22,518213,0.222
+2026-03-01,Trading Platform,Equity Trades,76200,2.0,77550,2.011
+2026-03-01,Trading Platform,FX Trades,40640,1.6,39626,1.592
+2026-04-01,Payments,Card Payments,1331200,0.3,1157586,0.297
+2026-04-01,Payments,Bank Transfers,512000,0.22,497204,0.218
+2026-04-01,Trading Platform,Equity Trades,76800,2.0,78407,2.007
+2026-04-01,Trading Platform,FX Trades,40960,1.6,41138,1.629
+2026-05-01,Payments,Card Payments,1368432,0.3,1177760,0.295
+2026-05-01,Payments,Bank Transfers,526320,0.22,515521,0.22
+2026-05-01,Trading Platform,Equity Trades,78948,2.0,76985,2.019
+2026-05-01,Trading Platform,FX Trades,42106,1.6,41685,1.585
+2026-06-01,Payments,Card Payments,1406080,0.3,1225384,0.292
+2026-06-01,Payments,Bank Transfers,540800,0.22,534080,0.22
+2026-06-01,Trading Platform,Equity Trades,81120,2.0,80425,2.038
+2026-06-01,Trading Platform,FX Trades,43264,1.6,42456,1.616
+2026-07-01,Payments,Card Payments,1403272,0.3,1361969,0.301
+2026-07-01,Payments,Bank Transfers,539720,0.22,539073,0.219
+2026-07-01,Trading Platform,Equity Trades,80958,2.0,82474,2.032
+2026-07-01,Trading Platform,FX Trades,43178,1.6,44419,1.632
+2026-08-01,Payments,Card Payments,1386528,0.3,1359148,0.3
+2026-08-01,Payments,Bank Transfers,533280,0.22,523029,0.22
+2026-08-01,Trading Platform,Equity Trades,79992,2.0,78379,2.031
+2026-08-01,Trading Platform,FX Trades,42662,1.6,42701,1.624
+2026-09-01,Payments,Card Payments,1452360,0.3,1464857,0.294
+2026-09-01,Payments,Bank Transfers,558600,0.22,554396,0.219
+2026-09-01,Trading Platform,Equity Trades,83790,2.0,97934,1.985
+2026-09-01,Trading Platform,FX Trades,44688,1.6,45989,1.599
+2026-10-01,Payments,Card Payments,1505088,0.3,1538860,0.303
+2026-10-01,Payments,Bank Transfers,578880,0.22,574754,0.221
+2026-10-01,Trading Platform,Equity Trades,86832,2.0,103570,1.985
+2026-10-01,Trading Platform,FX Trades,46310,1.6,46363,1.621
+2026-11-01,Payments,Card Payments,1572480,0.3,1589796,0.299
+2026-11-01,Payments,Bank Transfers,604800,0.22,607896,0.216
+2026-11-01,Trading Platform,Equity Trades,90720,2.0,105198,1.992
+2026-11-01,Trading Platform,FX Trades,48384,1.6,49119,1.582
+2026-12-01,Payments,Card Payments,1668992,0.3,1651468,0.3
+2026-12-01,Payments,Bank Transfers,641920,0.22,635438,0.224
+2026-12-01,Trading Platform,Equity Trades,96288,2.0,110947,1.987
+2026-12-01,Trading Platform,FX Trades,51354,1.6,52298,1.582
